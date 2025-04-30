@@ -1,0 +1,13 @@
+<svg version="1.1" width="107" height="30" viewBox="-1 0 107 30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" x1="241.31198" y1="165.22112" x2="241.31198" y2="194.58912" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c" stop-opacity="0"/>
+      <stop offset="1" stop-color="#1c1c1c"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.5236039622686803" fill="url(#grad_1)" stroke="none" stroke-width="0" stroke-linecap="butt" d="M 188.668 190.994 C 188.668 184.738 188.668 172.189 188.668 168.744 C 188.668 167.029 190.319 165.221 192.413 165.221 C 202.112 165.221 274.902 165.221 290.721 165.221 C 292.665 165.221 293.764 166.530 293.786 168.563 C 293.850 174.553 293.975 186.830 293.953 190.450 C 293.941 192.414 292.397 194.589 290.005 194.589 C 272.647 194.589 200.482 194.589 191.696 194.589 C 189.974 194.589 188.668 193.174 188.668 190.994 Z " transform="matrix(1, 0, 0, 1, -187.7, -165.2)"/>
+  <path id="ID0.9077132469974458" fill="none" stroke="#a9e43a" stroke-width="4" stroke-linecap="butt" d="M 207.562 174.721 C 209.045 176.055 209.972 177.957 209.972 180.069 C 209.972 184.105 206.585 187.377 202.407 187.377 C 198.229 187.377 194.842 184.105 194.842 180.069 C 194.842 177.957 195.769 176.055 197.252 174.721 " transform="matrix(1, 0, 0, 1, -187.7, -165.2)"/>
+  <path id="ID0.03519170451909304" fill="none" stroke="#a9e43a" stroke-width="4" stroke-linecap="round" d="M 202.146 180.288 L 202.225 171.409 " transform="matrix(1, 0, 0, 1, -187.7, -165.2)"/>
+  <text id="ID0.7060824413783848" fill="#A0E23A" x="224" y="183" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(0.6949656009674072, 0, 0, 0.6949656009674072, 24.5, 6.05)">Shut down</text>
+</svg>

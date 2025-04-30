@@ -1,0 +1,16 @@
+<svg version="1.1" width="109" height="32" viewBox="-1 0 109 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" x1="239.3738" y1="164.46466" x2="239.3738" y2="195.53534" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1c1c" stop-opacity="0"/>
+      <stop offset="1" stop-color="#1c1c1c"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.5441425177268684">
+    <g id="ID0.4600544162094593">
+      <path id="ID0.06851934688165784" fill="url(#grad_1)" stroke="none" stroke-width="0" d="M 185.550 191.466 C 185.550 187.768 185.550 174.888 185.550 168.446 C 185.550 166.292 187.509 164.465 190.888 164.465 C 210.424 164.465 277.445 164.465 288.084 164.465 C 290.870 164.465 293.197 167.067 293.197 169.331 C 293.197 173.015 293.197 184.391 293.197 190.802 C 293.197 193.497 291.319 195.314 288.979 195.314 C 278.667 195.314 204.764 195.535 188.648 195.535 C 186.659 195.535 185.550 193.328 185.550 191.466 Z " transform="matrix(1, 0, 0, 1, -185.55, -164.45)"/>
+      <path id="ID0.6193827618844807" fill="none" stroke="#9cd41f" stroke-width="2.5" d="M 207.972 179.912 C 207.972 184.774 204.200 188.715 199.547 188.715 C 194.893 188.715 191.121 184.774 191.121 179.912 C 191.121 175.050 194.893 171.109 199.547 171.109 C 204.200 171.109 207.972 175.050 207.972 179.912 Z " transform="matrix(1, 0, 0, 1, -185.55, -164.45)"/>
+    </g>
+  </g>
+  <text id="ID0.8249870925210416" fill="#A0E23A" x="217" y="190.25" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(1, 0, 0, 1, 26, 2.15)">Restart</text>
+</svg>
