@@ -1,0 +1,15 @@
+<svg version="1.1" width="539" height="407" viewBox="-1 -1 539 407" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="grad_1" x1="240.00001" y1="-5.63623" x2="240.00001" y2="35.36376" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#191919"/>
+      <stop offset="1" stop-color="#2b2b2b"/>
+    </linearGradient>
+  </defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.6331227053888142" fill="#ffffff" stroke="#0052d9" stroke-width="0" d="M -28.901 381.294 L -28.901 -24.294 L 508.901 -24.294 L 508.901 381.294 Z " transform="matrix(1, 0, 0, 1, 29.85, 25.1)"/>
+  <path id="ID0.12324773287400603" fill="url(#grad_1)" stroke="none" stroke-width="0" d="M -24.571 35.364 L -24.571 -5.636 L 504.571 -5.636 L 504.571 35.364 Z " transform="matrix(1, 0, 0, 1, 29.85, 25.1)"/>
+  <path id="ID0.32114364579319954" fill="none" stroke="#a1e33a" stroke-width="5" d="M 262.625 210 L 262.625 75 L 475.625 75 L 475.625 210 Z " transform="matrix(1, 0, 0, 1.3714286088943481, 18.9, -13.5)"/>
+  <text id="ID0.6661796639673412" fill="#A0E23A" x="259" y="87.25" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(0.7801691293716431, 0, 0, 0.7801691293716431, 286, 94.1)">All Original Musicsare owned by therightful owners.All Musics from/for FNF.All Musics are remixedby RetroSpecter.Credits goes to RetroSpecter and otherFNF Music creators.</text>
+  <text id="ID0.4456119150854647" fill="#A0E23A" x="20" y="70.25" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(1, 0, 0, 1, 47, 73.15)">1. Foolhardy2. Genocide3. Glitcher4. Gospel</text>
+  <text id="ID0.10196486162021756" fill="#A0E23A" x="19" y="15.250000000000002" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(1.1713030338287354, 0, 0, 1.1713030338287354, 35, 25.1)">Music Player</text>
+</svg>
