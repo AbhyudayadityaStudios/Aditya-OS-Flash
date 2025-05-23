@@ -1,20 +1,0 @@
-<svg version="1.1" width="738" height="468" viewBox="-1 -1 738 468" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <linearGradient id="grad_1" x1="240.00003" y1="-11.63623" x2="240.00003" y2="40.36375" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#191919"/>
-      <stop offset="1" stop-color="#333333"/>
-    </linearGradient>
-  </defs>
-  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
-  <g id="ID0.2366184452548623">
-    <g id="ID0.5849848375655711">
-      <path id="ID0.7154767820611596" fill="#ffffff" stroke="#0052d9" stroke-width="0" d="M -14.248 361.939 L -14.248 -1.939 L 494.248 -1.939 L 494.248 361.939 Z " transform="matrix(1, 0, 0, 1, 129.1, 12.6)"/>
-      <path id="ID0.4746523932553828" fill="url(#grad_1)" stroke="none" stroke-width="0" d="M -120 40.364 L -120 -11.636 L 600 -11.636 L 600 40.364 Z " transform="matrix(1, 0, 0, 1, 129.1, 12.6)"/>
-      <path id="ID0.11941949231550097" fill="#202020" stroke="#00acff" stroke-width="4" d="M -127.117 453.072 L -127.117 450.139 L 605.616 450.139 L 605.616 453.072 Z " transform="matrix(1, 0, 0, 1, 129.1, 12.6)"/>
-      <path id="ID0.6179578932933509" fill="#101010" stroke="#101010" stroke-width="2.5" d="M 391.333 26.442 C 391.333 23.782 391.333 18.386 391.333 16.642 C 391.333 15.320 392.362 14.419 393.299 14.419 C 394.954 14.419 400.416 14.419 403.499 14.419 C 404.792 14.419 405.667 15.486 405.667 16.442 C 405.667 18.139 405.667 23.740 405.667 26.642 C 405.667 27.715 404.756 28.419 403.899 28.419 C 402.170 28.419 395.867 28.419 392.899 28.419 C 391.943 28.419 391.333 27.621 391.333 26.442 Z " transform="matrix(1, 0, 0, 1, 129.1, 12.6)"/>
-      <path id="ID0.37484728125855327" fill="#a7e338" stroke="#a7e338" stroke-width="2.5" d="M 411.333 26.442 C 411.333 23.782 411.333 18.386 411.333 16.642 C 411.333 15.320 412.362 14.419 413.299 14.419 C 414.954 14.419 420.416 14.419 423.499 14.419 C 424.792 14.419 425.667 15.486 425.667 16.442 C 425.667 18.139 425.667 23.740 425.667 26.642 C 425.667 27.715 424.756 28.419 423.899 28.419 C 422.170 28.419 415.867 28.419 412.899 28.419 C 411.943 28.419 411.333 27.621 411.333 26.442 Z " transform="matrix(1, 0, 0, 1, 129.1, 12.6)"/>
-    </g>
-  </g>
-  <text id="ID0.26937963580712676" fill="#A0E23A" x="13" y="29.200000000000003" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(1, 0, 0, 1, 135, 18.1)">About (Changelogs)</text>
-  <text id="ID0.6003684811294079" fill="#A0E23A" x="13" y="60.25" text-anchor="start" font-family="Helvetica" font-size="22" transform="matrix(0.8102676272392273, 0, 0, 0.8102676272392273, 134.3, 56)">1.2.1:Fixed the changelogs.1.2.0:Updated About screen.Updated opening screen.1.1.3:Fixed the Date (Day) Display.Fixed the eraser on Paint.Fixed the Music Player.Changed the MYTA Studios logo.Added a new wallpaper.Changed the original Aditya OS Wallpaper.Changed Settings, Music Player and Camera app logo.1.0.0:First Release.</text>
-</svg>
