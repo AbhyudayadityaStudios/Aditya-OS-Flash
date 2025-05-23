@@ -6,13 +6,8 @@ Aditya OS's older build made for Flash. Requires Adobe Flash Player. The final u
 
 ### Tutorial to open it
 
-1. Download the repo as a `.zip` file.
-2. You now need a archiver program, you can use [WinRAR](https://www.win-rar.com/start.html?&L=0) for it if you want.
-3. Now open the archive on your archiver program.
-4. Delete the `.github` folder and `README.md` and `LICENSE` files.
-5. Now exit the program.
-6. Rename the file extension from `.zip` to `.sb2`.
-7. Download and install [Adobe AIR from here](https://airsdk.harman.com/runtime).
-8. Download and install [Scratch 2 from here](https://scratch.mit.edu/download/scratch2), then open it.
-9. Go to File > Open and open the project.
-10. Good Job! You've opened the project!
+1. Download [Aditya OS Flash ℧.sb2](https://github.com/AdityaOS/Aditya-OS-Flash/blob/master/Aditya%20OS%20Flash%20%E2%84%A7.sb2).
+2. Download and install [Adobe AIR from here](https://airsdk.harman.com/runtime).
+3. Download and install [Scratch 2 from here](https://scratch.mit.edu/download/scratch2), then open it.
+4. Go to File > Open and open the project.
+5. Good Job! You've opened the project!
