@@ -6,7 +6,7 @@ Aditya OS's older build made for Flash. Requires Adobe Flash Player. The final u
 
 ### Tutorial to open it
 
-1. Download [Aditya OS Flash ℧.sb2](https://github.com/AdityaOS/Aditya-OS-Flash/blob/master/Aditya%20OS%20Flash%20%E2%84%A7.sb2).
+1. Download `Aditya OS Flash ℧.sb2` from [here](https://github.com/AdityaOS/Aditya-OS-Flash/blob/master/Aditya%20OS%20Flash%20%E2%84%A7.sb2).
 2. Download and install [Adobe AIR from here](https://airsdk.harman.com/runtime).
 3. Download and install [Scratch 2 from here](https://scratch.mit.edu/download/scratch2), then open it.
 4. Go to File > Open and open the project.
