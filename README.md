@@ -1,4 +1,4 @@
-# Aditya-OS-Flash
+# Aditya OS Flash
 
 <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/AdityaOS/Aditya-OS-Flash?color=%238a2be2"> <img alt="GitHub Release" src="https://img.shields.io/github/v/release/AdityaOS/Aditya-OS-Flash?color=%23a9e43a"> <img alt="GitHub License" src="https://img.shields.io/github/license/AdityaOS/Aditya-OS-Flash?color=blue"> <img alt="engine" src="https://img.shields.io/badge/engine-Scratch 2-orange">
 
